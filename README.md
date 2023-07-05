@@ -12,20 +12,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/saganshul/capstone">
-    <img src="https://play-lh.googleusercontent.com/Hm80twjPziydXS3wZVLR9RmiWEuBwp0ExehWekKoVeHZpPH8ZheZDAbGvq-8OcvskPE" alt="Logo" width="" height="80">
-  </a>
 
-  <h3 align="center">J-card+: Zero-knowledge Identity using Iden3</h3>
-
-  <p align="center">
-    ZKsnacks, Johns Hopkins University
-    <br />
-    <br />
-    <br />
-  </p>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
